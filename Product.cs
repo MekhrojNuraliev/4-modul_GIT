@@ -11,5 +11,6 @@ namespace _4_modul_GIT
         public int Id { get; set; }
         public string Name { get; set; }
         public double Price { get; set; }
+        public double LastName { get; set; }
     }
 }
